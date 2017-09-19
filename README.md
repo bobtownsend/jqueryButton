@@ -1,1 +1,1 @@
-"Just a simple sample of jquery."
+Just a simple sample of jquery.
